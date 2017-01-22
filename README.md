@@ -1,0 +1,2 @@
+# simpleTestCode
+Do some exercises
