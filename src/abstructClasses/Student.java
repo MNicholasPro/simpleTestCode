@@ -22,11 +22,11 @@ public class Student extends Person{
         return "a student major in "+major;
     }
 
-    public static void main(String[] args) {
+/*    public static void main(String[] args) {
         Class cls =  Class.forName("abstructClasses.Student");
         Object obj = cls.newInstance();
 
         Method[] methods = obj.getClass().getMethods();
         methods[0].invoke(obj,args)
-    }
+    }*/
 }
