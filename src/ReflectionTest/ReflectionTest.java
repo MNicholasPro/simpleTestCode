@@ -29,10 +29,13 @@ public class ReflectionTest {
                 System.out.println("extends" + supercl.getName());
             }
             System.out.println("\n{\n");
+            System.out.println("Constructors~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             printConstructors(cl);
             System.out.println();
+            System.out.println("Methods~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             printMethods(cl);
             System.out.println();
+            System.out.println("Fields~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             printFields(cl);
             System.out.println("}");
         }catch (Exception e ){

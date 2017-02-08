@@ -10,5 +10,7 @@ public class length {
         int[] a = {1,2,3,4,5,6,7,8,9};
         int b = Array.getLength(a);
         System.out.println(b);
+
+
     }
 }
