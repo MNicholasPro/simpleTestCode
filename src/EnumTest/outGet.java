@@ -8,6 +8,7 @@ public class outGet {
     public static  void main(String[] args){
 //        System.out.println(Size.values());
         for(Size a : Size.values()){
+            System.out.println(a);
             EnumTestRO aa = new EnumTestRO();
             aa.setAbbreviation(a.getAbbreviation());
             aa.setCode(a.getCode());
