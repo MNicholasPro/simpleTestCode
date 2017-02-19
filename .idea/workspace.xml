@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="481cc454-a524-42bd-b068-f139cece9247" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blockingQueue/BlockingQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bounceThread/BounceThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pair2/PairTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/synch/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/synch/TransferRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/synch/sychBankTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unsynch/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unsynch/TransferRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unsynch/UnsychBankTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bounce/Ball.java" afterPath="$PROJECT_DIR$/src/bounce/Ball.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bounce/Bounce.java" afterPath="$PROJECT_DIR$/src/bounce/Bounce.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pair1/PairTest1.java" afterPath="$PROJECT_DIR$/src/pair1/PairTest1.java" />
     </list>
     <ignored path="testJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -842,7 +829,7 @@
       <workItem from="1486536829065" duration="27761000" />
       <workItem from="1487146286075" duration="20444000" />
       <workItem from="1487385086917" duration="2586000" />
-      <workItem from="1487475877175" duration="12295000" />
+      <workItem from="1487475877175" duration="12309000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1485167301469</created>
@@ -900,11 +887,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486734828542</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="提交">
+      <created>1487519342163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487519342163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131939000" />
+    <option name="totallyTimeSpent" value="131953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
