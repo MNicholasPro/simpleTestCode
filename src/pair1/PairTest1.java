@@ -1,10 +1,13 @@
+/*
 package pair1;
 
 
+*/
 /**
  * V1.0.0
  * Created by zhoumingkai on 2017/2/10.
- */
+ *//*
+
 public class PairTest1 {
     public static void main(String[] args) {
         String[] words = {"Marry", "had", "a", "little", "lamb"};
@@ -57,3 +60,4 @@ class ArrayAlg{
         return new Pair<>(min,max);
     }
 }
+*/

@@ -36,7 +36,10 @@ public class Ball {
         }
     }
 
-    public Ellipse2D getShape(){
-        return new Ellipse2D().Double(x,y,XSIZE,YSIZE);
+
+
+    public Ellipse2D getShape() {
+        return new Ellipse2D.Double(x, y, XSIZE, YSIZE);
     }
+
 }
