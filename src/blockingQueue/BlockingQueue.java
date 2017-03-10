@@ -1,3 +1,4 @@
+/*
 package blockingQueue;
 
 import java.io.File;
@@ -5,9 +6,11 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.concurrent.ArrayBlockingQueue;
 
+*/
 /**
  * Created by April_Chou on 2017/2/19.
- */
+ *//*
+
 public class BlockingQueue {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -103,4 +106,4 @@ class SearchTask implements Runnable {
             }
         }
     }
-}
+}*/
